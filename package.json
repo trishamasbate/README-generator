@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A README Generator that swiftly produces professional README files for new projects. This tool will streamline the documentation process, enabling users to focus more on coding and less on formatting and structuring project introductions and instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trishamasbate/README-generator"
+  },
+  "keywords": [
+    "cli",
+    "inquirer"
+  ],
+  "author": "Trisha Masbate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trishamasbate/README-generator/issues"
+  },
+  "homepage": "https://github.com/trishamasbate/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
