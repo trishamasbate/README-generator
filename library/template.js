@@ -36,7 +36,6 @@ function generateREADME(answers) {
   ${answers.description}
 
   ## Table of Contents
-  * [ Description ](#Description)
   * [ Project Links ](#Project-Links)
   * [ Screenshots-Demo ](#Screenshots-Demo)
   * [ Installation ](#Installation)
