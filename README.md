@@ -11,7 +11,6 @@
 - [PROFESSIONAL README GENERATOR](#professional-readme-generator)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-- [](#)
   - [Project Links](#project-links)
   - [Screenshots-Demo](#screenshots-demo)
   - [Installation](#installation)
@@ -20,7 +19,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
   - [License](#license)
-  #
+
 
   ##  Project Links
   https://github.com/trishamasbate/README-generator<br>
