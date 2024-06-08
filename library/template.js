@@ -42,7 +42,7 @@ function generateREADME(answers) {
   * [ Technologies ](#Technologies)
   * [ Installation ](#Installation)
   * [ Usage ](#Usage)
-  * [ Contributing ](#Contribution-Guidelines)
+  * [ Contributing ](#Contributing)
   * [ Tests ](#Tests)
   * [ Questions ](#Questions)
   * [ License ](#License)
