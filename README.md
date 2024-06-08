@@ -8,16 +8,18 @@
   A README Generator that swiftly produces professional README files for new projects. This tool will streamline the documentation process, enabling users to focus more on coding and less on formatting and structuring project introductions and instructions.
 
   ## Table of Contents
-  * [ Description ](#Description)
-  * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots)
-  * [ Technologies ](#Technologies)
-  * [ Installation ](#Installation)
-  * [ Usage ](#Usage)
-  * [ Contributing ](#Contribution-Guidelines)
-  * [ Tests ](#Tests)
-  * [ Questions ](#Questions)
-  * [ License ](#License)
+- [PROFESSIONAL README GENERATOR](#professional-readme-generator)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+- [](#)
+  - [Project Links](#project-links)
+  - [Screenshots-Demo](#screenshots-demo)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
   #
 
   ##  Project Links

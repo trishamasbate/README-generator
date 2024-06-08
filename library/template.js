@@ -38,8 +38,7 @@ function generateREADME(answers) {
   ## Table of Contents
   * [ Description ](#Description)
   * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots)
-  * [ Technologies ](#Technologies)
+  * [ Screenshots-Demo ](#Screenshots-Demo)
   * [ Installation ](#Installation)
   * [ Usage ](#Usage)
   * [ Contributing ](#Contributing)
