@@ -4,22 +4,20 @@
   [![github-follow](https://img.shields.io/github/followers/trishamasbate?label=Follow&logoColor=purple&style=social)](https://github.com/trishamasbate)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
-  ## Description
-  A README Generator that swiftly produces professional README files for new projects. This tool will streamline the documentation process, enabling users to focus more on coding and less on formatting and structuring project introductions and instructions.
-
   ## Table of Contents
-- [PROFESSIONAL README GENERATOR](#professional-readme-generator)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Project Links](#project-links)
-  - [Screenshots-Demo](#screenshots-demo)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  - [License](#license)
+  * [ Description ](#Description)
+  * [ Project Links ](#Project-Links)
+  * [ Screenshots-Demo ](#Screenshots-Demo)
+  * [ Installation ](#Installation)
+  * [ Usage ](#Usage)
+  * [ Contributing ](#Contributing)
+  * [ Tests ](#Tests)
+  * [ Questions ](#Questions)
+  * [ License ](#License)
+  #
 
+    ## Description
+  A README Generator that swiftly produces professional README files for new projects. This tool will streamline the documentation process, enabling users to focus more on coding and less on formatting and structuring project introductions and instructions.
 
   ##  Project Links
   https://github.com/trishamasbate/README-generator<br>
@@ -29,13 +27,13 @@
   <kbd>![screenshot-demo1](./utils/trial.png)</kbd>
   
   ## Installation
-  Click on the link to start!
+  Click on the Project Link to clone the repository 🙌🏻
 
   ## Usage 
-  Clone the repository. Run the terminal. Type "node index.js". Supply the information as prompted.
+  Clone the repository, and run the README generator in your terminal. Type in "node index.js" to start. Provide the information as prompted.
   
   ## Contributing
-  Please proceed to GitHub Docs for guidance : https://docs.github.com/en/contributing
+  Please visit GitHub Docs for guidance: https://docs.github.com/en/contributing
 
   ## Tests
   npm test
