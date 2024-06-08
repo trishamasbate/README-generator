@@ -5,18 +5,19 @@
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
-  * [ Description ](#Description)
-  * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots-Demo)
-  * [ Installation ](#Installation)
-  * [ Usage ](#Usage)
-  * [ Contributing ](#Contributing)
-  * [ Tests ](#Tests)
-  * [ Questions ](#Questions)
-  * [ License ](#License)
-  #
-
-    ## Description
+- [PROFESSIONAL README GENERATOR](#professional-readme-generator)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Project Links](#project-links)
+  - [Screenshots-Demo](#screenshots-demo)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
+  
+  ## Description
   A README Generator that swiftly produces professional README files for new projects. This tool will streamline the documentation process, enabling users to focus more on coding and less on formatting and structuring project introductions and instructions.
 
   ##  Project Links
