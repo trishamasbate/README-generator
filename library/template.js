@@ -32,10 +32,8 @@ function generateREADME(answers) {
       .split('-')
       .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/${answers.license}/)
 
-  ## Description
-  ${answers.description}
-
   ## Table of Contents
+  * [ Description ](#Description)
   * [ Project Links ](#Project-Links)
   * [ Screenshots-Demo ](#Screenshots-Demo)
   * [ Installation ](#Installation)
@@ -45,6 +43,9 @@ function generateREADME(answers) {
   * [ Questions ](#Questions)
   * [ License ](#License)
   #
+
+    ## Description
+  ${answers.description}
 
   ##  Project Links
   https://github.com/${answers.username.trim().toLowerCase()}/${answers.repoName.trim()}<br>
