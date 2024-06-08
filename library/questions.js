@@ -118,42 +118,16 @@ const questions = [
 		},
 	},
 	{
-		// Project Objective
+		// Project Description
 		type: 'input',
-		message: 'What is your Project Objective?',
-		name: 'objective',
-		validate: function(objective) {
-			if (objective) {
+		message: 'What is your Project Description?',
+		name: 'description',
+		validate: function(description) {
+			if (description) {
 				return true;
 			}
 
-			return 'A professional README provides the Project Objective.';
-		},
-	},
-	{
-		// Project User Story
-		type: 'input',
-		message: 'Provide the User Story for your Project',
-		name: 'userStory',
-		validate: function(userstory) {
-			if (userstory) {
-				return true;
-			}
-
-			return 'A professional README provides the User Story for the Project.';
-		},
-	},
-	{
-		// Technologies Used
-		type: 'input',
-		message: 'List the Technologies used for the Project. (* Use comma "," to separate each technology)',
-		name: 'technologies',
-		validate: function(tech) {
-			if (tech) {
-				return true;
-			}
-
-			return 'A professional README lists Technologies used for the Project.';
+			return 'A professional README provides the Project Description.';
 		},
 	},
 	{
@@ -183,12 +157,12 @@ const questions = [
 		},
 	},
 	{
-		// Credits / Reference
+		// Contribution Guidelines
 		type: 'input',
-		message: 'Enter the parties and links you like to give credits to',
-		name: 'credits',
-		validate: function(credits) {
-			if (credits) {
+		message: 'Enter the contributing guidelines for your project.',
+		name: 'contributing',
+		validate: function(contributing) {
+			if (contributing) {
 				return true;
 			}
 
