@@ -5,15 +5,18 @@
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
-  * [ Description ](#Description)
-  * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots-Demo)
-  * [ Installation ](#Installation)
-  * [ Usage ](#Usage)
-  * [ Contributing ](#Contributing)
-  * [ Tests ](#Tests)
-  * [ Questions ](#Questions)
-  * [ License ](#License)
+- [PROFESSIONAL README GENERATOR](#professional-readme-generator)
+  - [Table of Contents](#table-of-contents)
+- [](#)
+  - [Description](#description)
+  - [Project Links](#project-links)
+  - [Screenshots-Demo](#screenshots-demo)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
   #
 
   ## Description
@@ -21,19 +24,24 @@
 
   ##  Project Links
   https://github.com/trishamasbate/README-generator<br>
-  
 
+  [YOUTUBE Professional README Generator Workflow](https://youtu.be/ldYhGwLixi4?si=UgZnZBNKDdmwLLGU)
+
+  [SCREENCASTIFY Professional README Generator Workflow](https://watch.screencastify.com/v/NIOT2FwR8IAXLgiC5cGA)
+  
   ## Screenshots-Demo
   <kbd>![screenshot-demo1](./utils/readme-generator.png)</kbd>
   
   ## Installation
-  Clone the repository using the link above! 🙌🏻
+  Clone the repository using the Project Link above! 🙌🏻
 
   ## Usage 
-  Open in Terminal. Type "node index.js". Supply the answers to the questions.
+  1. Run the Terminal.
+  2. Type "node index.js".
+  3. Supply the answers to the questions.
   
   ## Contributing
-  Please vsiit GitHub Docs.
+  Please visit GitHub Docs for guidance: https://docs.github.com/en/contributing
 
   ## Tests
   npm test
