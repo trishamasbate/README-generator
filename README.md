@@ -5,15 +5,15 @@
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
-  - [Description](#description)
-  - [Project Links](#project-links)
-  - [Screenshots-Demo](#screenshots-demo)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  - [License](#license)
+  * [ Description ](#Description)
+  * [ Project Links ](#Project-Links)
+  * [ Screenshots-Demo ](#Screenshots-Demo)
+  * [ Installation ](#Installation)
+  * [ Usage ](#Usage)
+  * [ Contributing ](#Contributing)
+  * [ Tests ](#Tests)
+  * [ Questions ](#Questions)
+  * [ License ](#License)
   #
 
   ## Description
@@ -21,23 +21,19 @@
 
   ##  Project Links
   https://github.com/trishamasbate/README-generator<br>
-
-  [Professional README Generator Workflow](https://youtu.be/ldYhGwLixi4?si=j3JGWoIUcMnF1BrG)
   
 
   ## Screenshots-Demo
   <kbd>![screenshot-demo1](./utils/readme-generator.png)</kbd>
   
   ## Installation
-  Clone the repository by clicking on the link above! 🙌🏻
+  Clone the repository using the link above! 🙌🏻
 
   ## Usage 
-  1. Open in Terminal.
-  2. Type in "node index.js".
-  3. Supply the information as prompted.
+  Open in Terminal. Type "node index.js". Supply the answers to the questions.
   
   ## Contributing
-  Please visit GitHub Docs for guidance: https://docs.github.com/en/contributing
+  Please vsiit GitHub Docs.
 
   ## Tests
   npm test
