@@ -7,6 +7,7 @@
   ## Table of Contents
 - [PROFESSIONAL README GENERATOR](#professional-readme-generator)
   - [Table of Contents](#table-of-contents)
+- [](#)
   - [Description](#description)
   - [Project Links](#project-links)
   - [Screenshots-Demo](#screenshots-demo)
@@ -16,41 +17,4 @@
   - [Tests](#tests)
   - [Questions](#questions)
   - [License](#license)
-  
-  ## Description
-  A README Generator that swiftly produces professional README files for new projects. This tool will streamline the documentation process, enabling users to focus more on coding and less on formatting and structuring project introductions and instructions.
-
-  ##  Project Links
-  https://github.com/trishamasbate/README-generator<br>
-  
-
-  ## Screenshots-Demo
-  <kbd>![screenshot-demo1](./utils/trial.png)</kbd>
-  
-  ## Installation
-  Click on the Project Link to clone the repository 🙌🏻
-
-  ## Usage 
-  Clone the repository, and run the README generator in your terminal. Type in "node index.js" to start. Provide the information as prompted.
-  
-  ## Contributing
-  Please visit GitHub Docs for guidance: https://docs.github.com/en/contributing
-
-  ## Tests
-  npm test
-
-  ## Questions
-  Contact the author with any questions!<br>
-  Github link: [trishamasbate](https://github.com/trishamasbate)<br>
-  Email: trisha.masbate@gmail.com
-
-  ## License
-  This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
-
-  Copyright © 2024 [TRISHA MASBATE](https://github.com/trishamasbate)
-  
-  <hr>
-  <p align='center'><i>
-  All the best! ♥️ TRISHA MASBATE
-  </i></p>
   

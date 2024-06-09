@@ -44,7 +44,7 @@ function generateREADME(answers) {
   * [ License ](#License)
   #
 
-    ## Description
+  ## Description
   ${answers.description}
 
   ##  Project Links
