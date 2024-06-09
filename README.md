@@ -5,9 +5,6 @@
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
-- [PROFESSIONAL README GENERATOR](#professional-readme-generator)
-  - [Table of Contents](#table-of-contents)
-- [](#)
   - [Description](#description)
   - [Project Links](#project-links)
   - [Screenshots-Demo](#screenshots-demo)
