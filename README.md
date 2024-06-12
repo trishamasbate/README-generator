@@ -5,6 +5,9 @@
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
+- [PROFESSIONAL README GENERATOR](#professional-readme-generator)
+  - [Table of Contents](#table-of-contents)
+- [](#)
   - [Description](#description)
   - [Project Links](#project-links)
   - [Screenshots-Demo](#screenshots-demo)
@@ -34,8 +37,9 @@
 
   ## Usage 
   1. Run the Terminal.
-  2. Type "node index.js".
-  3. Supply the answers to the questions.
+  2. Install the Inquirer Package ver. 8.2.4 by typing "npm i inquirer@8.2.4".
+  3. Type "node index.js".
+  4. Supply the answers to the questions.
   
   ## Contributing
   Please visit GitHub Docs for guidance: https://docs.github.com/en/contributing
